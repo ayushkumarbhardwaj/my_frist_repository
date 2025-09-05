@@ -13,3 +13,5 @@ This is my 11th day..
 This is my 12th day.
 This is my 13th day.
 This is my 14th day.
+I started the my new journey to Git hub.
+i create a new repository to push my coding journey and mamy things.
