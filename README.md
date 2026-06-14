@@ -1,41 +1,5 @@
 
 
-class Solution {
-  public:
-    int findElementAtIndex(int key, vector<int> &arr) {
-        // code here
-        int n= arr.size();
-        for(int i=0;i<n;i++)
-        {
-            if(i==key)
-            {
-                return arr[i];
-            }
-        }
-    }
-};
-
-
-
-
-# my_frist_repository
-This is my frist Repository.
-This is my second day.
-This is my 3rd day on GitHub.
-This is my 4th Day.
-This is my 5th day.
-This is my 6th day.
-This is my 7th day.
-This is my 8th day.
-This is my 9th day.
-This is my 10th day.
-This is my 11th day..
-This is my 12th day.
-This is my 13th day.
-This is my 14th day.
-I started the my new journey to Git hub.
-i create a new repository to push my coding journey and mamy things.
-
 Ayushkumarbhardwaj 
 
 
